@@ -1,1 +1,2 @@
 # VRC Projects
+This is a compilation for all my Vex Robotics code projects. It includes my projects from 4659 Warrior Robotix as well as The 6ix Robotics. There consists two platforms for programming ROBOTC and PROS. Contains techniques including PID loops, braking progams and Gyro Turning.
